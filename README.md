@@ -107,9 +107,10 @@ int main(void)
 
 
 ## Output  :
- 
- 
- 
+![WhatsApp Image 2024-02-22 at 14 24 09_0b36b223](https://github.com/HEMAKESHG/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870552/b7e334b8-c455-41cd-8432-717134de1092)
+![WhatsApp Image 2024-02-22 at 14 24 09_3149fab7](https://github.com/HEMAKESHG/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870552/5cd2b6a0-8e78-449f-ba91-402fb7e2b14e)
+
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
